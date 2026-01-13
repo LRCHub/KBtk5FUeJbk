@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Cradles",
+  "base_artist": "Sub Urban",
+  "createdAt": "2026-01-13T06:01:37.450134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Sub-Urban",
+      "has_synced": true,
+      "path": "select/01_Cradles_Sub-Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Sub Urban",
+      "has_synced": true,
+      "path": "select/02_Cradles_Sub_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "16 Cradles",
+      "artist": "Hail the Villain",
+      "has_synced": false,
+      "path": "select/03_16_Cradles_Hail_the_Villain.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Besomorph",
+      "has_synced": true,
+      "path": "select/04_Cradles_Besomorph.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Besomorph",
+      "has_synced": false,
+      "path": "select/05_Cradles_Besomorph.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Sub Urban",
+      "has_synced": true,
+      "path": "select/06_Cradles_Sub_Urban.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Sub Urban",
+      "has_synced": true,
+      "path": "select/07_Cradles_Sub_Urban.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sub Urban - Cradles [Official Music Video]",
+      "artist": "Sub Urban",
+      "has_synced": true,
+      "path": "select/08_Sub_Urban_-_Cradles_[Official_Music_Video]_Sub_Urban.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Sub Urban",
+      "has_synced": true,
+      "path": "select/09_Cradles_Sub_Urban.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Fin Draper",
+      "has_synced": true,
+      "path": "select/10_Cradles_Fin_Draper.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cradles",
+      "artist": "Sub Urban",
+      "has_synced": true,
+      "path": "select/11_Cradles_Sub_Urban.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "16 Cradles",
+      "artist": "Hail the Villain",
+      "has_synced": true,
+      "path": "select/12_16_Cradles_Hail_the_Villain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cradles",
+      "artist": "Sub Urban",
+      "has_synced": false,
+      "path": "select/pl_01_Cradles_Sub_Urban.txt"
+    }
+  ]
+}
